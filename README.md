@@ -1,10 +1,10 @@
 # Controle de Estoque para Microempreendedores
 
 ## Problema Real
-[cite_start]Microempreendedores muitas vezes perdem o controle manual de seus produtos, resultando em prejuízos financeiros por falta de estoque ou excesso de itens parados[cite: 323].
+Microempreendedores muitas vezes perdem o controle manual de seus produtos, resultando em prejuízos financeiros por falta de estoque ou excesso de itens parados.
 
 ## Solução
-[cite_start]Uma aplicação simples via linha de comando (CLI) que permite registrar entradas de produtos com validações de segurança[cite: 324].
+Uma aplicação simples via linha de comando (CLI) que permite registrar entradas de produtos com validações de segurança.
 
 ## Tecnologias
 - **Linguagem:** Python
