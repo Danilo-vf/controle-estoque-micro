@@ -1,3 +1,11 @@
+## Deploy
+Aplicação publicada em: https://controle-estoque-micro.onrender.com
+
+## Nova Funcionalidade (Etapa 2)
+Integração com a [AwesomeAPI](https://economia.awesomeapi.com.br) para exibir
+a cotação do dólar em tempo real, auxiliando microempreendedores na
+precificação de produtos importados.
+
 # Controle de Estoque para Microempreendedores
 
 ## Problema Real
